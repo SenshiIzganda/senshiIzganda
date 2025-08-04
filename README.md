@@ -4,21 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=2000&pause=500&color=F74D6C&center=true&vCenter=true&width=435&height=35&lines=👀+Visitor+Statistics+👀" alt="Animated Visitors Title" />
 </p>
-<script src="https://cdn.jsdelivr.net/npm/waifu2x-widget@1.4.1/lib/L2Dwidget.min.js"></script>
-     <script>
-       L2Dwidget.init({
-         model: {
-           jsonPath: "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json",
-         },
-         display: {
-           position: "right",
-           width: 150,
-           height: 300
-         },
-         mobile: { show: true },
-         react: { opacityDefault: 0.8, opacityOnHover: 0.2 }
-       });
-     </script>
+
+ *Profile Views:*  
+![Visitor Count](https://count.getloli.com/get/@senshiizganda?theme=rule34)
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda" alt="Website Visitors" />
