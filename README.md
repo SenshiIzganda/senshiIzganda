@@ -2,13 +2,12 @@
 
 <!-- Visitor Badges Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=2000&pause=500&color=F74D6C&center=true&vCenter=true&width=435&height=35&lines=👀+Visitor+Statistics+👀" alt="Animated Visitors Title" />
-</p>
+  
 
  *Profile Views:*  
 ![Visitor Count](https://count.getloli.com/get/@senshiizganda?theme=rule34)
 
-
+</p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda" alt="Website Visitors" />
   <br><b>🌐 Website Visitors</b>
