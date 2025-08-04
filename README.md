@@ -1,5 +1,9 @@
 # SenshiIzganda Portfolio 🎨
 
+![Website Visitors](https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda)
+![Repo Visitors](https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda-repo)
+![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda)
+
 [![View Live Website](https://img.shields.io/badge/Live%20Website-Click%20Here-blue?logo=google-chrome)](https://senshiizganda.github.io/senshiIzganda/)
 
 Welcome to my professional graphics designer portfolio!  
