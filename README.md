@@ -1,8 +1,9 @@
 # SenshiIzganda Portfolio 🎨
 
 <!-- Visitor Badges Section -->
-<p align="center" ![Visitor Count]> 
-                              !(https://count.getloli.com/get/@senshiizganda?theme=rule34)
+<p align="center" >      
+                              <img src="https://count.getloli.com/get/@senshiizganda?theme=rule34" alt="Visitor Count">
+
 
 </p>
 <p align="center">
