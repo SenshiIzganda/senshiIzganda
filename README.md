@@ -1,8 +1,22 @@
 # SenshiIzganda Portfolio 🎨
 
-![Website Visitors](https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda)
-![Repo Visitors](https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda-repo)
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda)
+<!-- Visitor Badges Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=2000&pause=500&color=F74D6C&center=true&vCenter=true&width=435&height=35&lines=👀+Visitor+Statistics+👀" alt="Animated Visitors Title" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda" alt="Website Visitors" />
+  <br><b>🌐 Website Visitors</b>
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda" alt="Profile Visitors" />
+  <br><b>👤 GitHub Profile Visitors</b>
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SenshiIzganda.senshiIzganda-repo" alt="Repo Visitors" />
+  <br><b>📄 README.md Visitors (Repo)</b>
+</p>
 
 [![View Live Website](https://img.shields.io/badge/Live%20Website-Click%20Here-blue?logo=google-chrome)](https://senshiizganda.github.io/senshiIzganda/)
 
