@@ -2,42 +2,48 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <title>SenshiIzganda Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SenshiIzganda | Graphic Designer Portfolio</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Montserrat:wght@600&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="favicon.png">
 </head>
 <body>
     <div class="background-overlay"></div>
     <header>
-        <h1>안녕하세요! I'm SenshiIzganda</h1>
-        <p>Graphic Designer | 포트폴리오</p>
+        <h1>SenshiIzganda</h1>
+        <p>Welcome to my creative portfolio!</p>
     </header>
     <nav>
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
+        <a href="#about" class="nav-link">About</a>
+        <a href="#projects" class="nav-link">Projects</a>
+        <a href="#contact" class="nav-link">Contact</a>
     </nav>
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>
-                I am a passionate graphic designer inspired by Korean aesthetics and minimalism.
-                My work blends modern design principles with a touch of Hallyu spirit.
-            </p>
+            <p>I'm a passionate developer and designer, crafting digital experiences that blend creativity and function.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Portfolio Website</strong> – This site, built with HTML, CSS, and JavaScript.</li>
+                <li><strong>Design Showcase</strong> – A gallery of my artwork and web designs.</li>
+                <li><strong>Open Source Contributions</strong> – Check my GitHub for recent work!</li>
+            </ul>
         </section>
         <section id="contact">
-            <h2>Contact</h2>
-            <form id="contact-form">
+            <h2>Contact Me</h2>
+            <form id="contact-form" autocomplete="off">
                 <input type="text" name="name" placeholder="Your Name" required>
                 <input type="email" name="email" placeholder="Your Email" required>
-                <textarea name="message" placeholder="Message" required></textarea>
-                <button type="submit">Send</button>
+                <textarea name="message" placeholder="Your Message" required></textarea>
+                <button type="submit">Send Message</button>
+                <div id="form-message" aria-live="polite"></div>
             </form>
-            <div id="form-message"></div>
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 SenshiIzganda | Made with <span style="color: #EA90A1;">♥</span> and Korean inspiration</p>
+        &copy; 2025 SenshiIzganda. All rights reserved.
     </footer>
     <script src="script.js"></script>
 </body>
