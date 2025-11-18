@@ -84,8 +84,8 @@ Then open `index.html` or visit the [live site](https://senshiizganda.github.io/
 ## 📬 Contact
 
 - [GitHub Profile](https://github.com/SenshiIzganda)
-- Email: your@email.com
+- Email: admin@fancybear.live
 
----
+---❤️
 
 > Designed & coded by SenshiIzganda — Professional Graphics Designer & Creative Developer
